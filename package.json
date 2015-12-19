@@ -1,0 +1,21 @@
+{
+  "name": "fighterpilot",
+  "version": "0.0.1",
+  "description": "A Stockfighter (https://www.stockfighter.io) application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pawel Chomicki",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "browserify-middleware": "^7.0.0"
+  },
+  "dependencies": {
+    "backbone": "^1.2.3",
+    "express": "^4.13.3",
+    "handlebars": "^4.0.5",
+    "jquery": "^2.1.4",
+    "profit": "file:///home/pc/profit"
+  }
+}
